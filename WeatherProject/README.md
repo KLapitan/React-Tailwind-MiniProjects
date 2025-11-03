@@ -1,16 +1,16 @@
-# React + Vite
+# Weather project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+here first time get information absed on some Weather forcest
 
-Currently, two official plugins are available:
+in this project there was alot to learn from fetching some api and turning data we get into some visible ui.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+we learned how to convert timeunix into an day ,date
 
-## React Compiler
+we learn how to checked if the data we get is in array or array of objects and turn into an array of arrays
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+we learn how to match some fetched data and match it into some of our data to match for example (weather codes ) we fetched weather codes from api and mathc if the weather codes is same we create data weather codes
 
-## Expanding the ESLint configuration
+we use some react hooks (useState and ,useEffect ) for rendering the api calls
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+also reponsiveness not yet fully finished , i just finish on how the challange are needed to be made thats why some process is cant be used , but in the future i will finish this
+:D
