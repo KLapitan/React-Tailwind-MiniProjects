@@ -2,7 +2,7 @@
   "name": "package",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://klapitan.github.io/React-Tailwind-MiniiProjects/ExpenseChart/",
+  "homepage": "https://klapitan.github.io/React-Tailwind-MiniProjects/ExpenseChart/",
   "type": "module",
   "scripts": {
     "dev": "vite",
